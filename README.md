@@ -37,6 +37,9 @@ Em seguida faz o tratamento dos dados.
 ###
 A execução bem-sucedida do script, os dados das ações são coletados e organizados em um arquivo **xlsx**.
 
+**Obs:** Os valores nas imagens são referentes ao dia da publicado deste repositório 11.08.2023.
+
+
 ### Conclusão:
 
 A automação da coleta de dados de ações usando a biblioteca **YFinance** oferece uma maneira eficiente e precisa de obter informações financeiras atualizadas. A exportação dos resultados para um arquivo **xlsx** amplia a utilidade do script, permitindo a análise posterior dos dados em um formato conveniente.
