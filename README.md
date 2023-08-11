@@ -9,7 +9,7 @@ Elaboração de um script (algoritmo) visando à automatização do processo de 
 
 ### Proposta:
 
-Desenvolver um script para automatizar a coleta de dados das principais ações brasileiras, **ITUB4; BBDC4; VALE3; PETR4; ABEV3 e BBAS3** no dia atual. Através da utilização das bibliotecas **Pandas** e **YFinance**, o script busca informações atualizadas diretamente do site de referência, <a href="https://br.financas.yahoo.com/">**Yahoo Finanças Brasil**</a> e organiza os resultados em um arquivo **xlsx**.
+Desenvolver um script para automatizar a coleta de dados das principais ações brasileiras, **ITUB4; BBDC4; VALE3; PETR4; ABEV3 e BBAS3** no atual data. Através da utilização das bibliotecas **Pandas** e **YFinance**, o script busca informações atualizadas diretamente do site de referência, <a href="https://br.financas.yahoo.com/">**Yahoo Finanças Brasil**</a> e organiza os resultados em um arquivo **xlsx**.
 
 ### Linguagem Utilizada:
 ###
