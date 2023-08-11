@@ -25,7 +25,7 @@ Através da utilização das bibliotecas **Pandas** e **YFinance**, o script bus
 
 O script foi projetado para aceitar uma lista com o nome das ações que seriam buscada as informações. Para cada item na lista, ele faz uma consulta através da biblioteca **yfinance** para obter os dados mais recentes, como preço de abertura, preço de fechamento, entre outros.
 ###
-Após a coleta dos dados, o script utiliza a biblioteca **Pandas** para criar um **DataFrame** contendo as informações das ações.
+Após a coleta dos dados, o script utiliza a biblioteca **Pandas** para criar um **DataFrame** contendo as informações obtidas.
 ###
 <img src="/img/dataframe_inicial.png">
 
