@@ -26,17 +26,15 @@ Através da utilização das bibliotecas, o script busca informações atualizad
 O script foi projetado para aceitar uma lista com o nome das ações que seriam buscada as informações. Para cada item na lista, ele faz uma consulta através da biblioteca yfinance para obter os dados mais recentes, como preço de abertura, preço de fechamento, entre outros.
 ###
 Após a coleta dos dados, o script utiliza a biblioteca **Pandas** para criar um **DataFrame** contendo as informações das ações.
-
+###
 <img src="/img/dataframe_inicial.png">
 
 ###
 Em seguida faz o tratamento dos dados.
-
+###
 <img src="/img/dataframe_final.png">
 
 ###
-Por fim ele exporta esse DataFrame para um arquivo **xlsx** usando a funcionalidade de exportação fornecida pelo **Pandas**.
-
 A execução bem-sucedida do script, os dados das ações são coletados e organizados em um arquivo **xlsx**.
 
 ### Conclusão:
