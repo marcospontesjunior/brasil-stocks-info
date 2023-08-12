@@ -37,7 +37,7 @@ Em seguida faz o tratamento dos dados.
 ###
 A execução bem-sucedida do script, os dados das ações são coletados e organizados em um arquivo **xlsx**.
 
-**Obs:** Os valores nas imagens são referentes ao dia da publicado deste repositório 11.08.2023.
+**Obs:** Os valores nas imagens são referentes ao dia da publicação deste repositório 11.08.2023.
 
 
 ### Conclusão:
