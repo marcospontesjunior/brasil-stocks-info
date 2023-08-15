@@ -13,6 +13,11 @@ Desenvolver um script para automatizar a coleta de dados das principais ações 
 
 Através da utilização das bibliotecas **Pandas** e **YFinance**, o script busca informações atualizadas diretamente do site de referência, <a href="https://br.financas.yahoo.com/">**Yahoo Finanças Brasil**</a> e organiza os resultados em um arquivo **xlsx**.
 
+### Estrutura do Repositório:
+- <strong>data:</strong> Encontrará o arquivo que foi gerado ao fim do script.
+- <strong>img:</strong> Aqui você encontrará os prints obtidos.
+- <strong>script:</strong> Este diretório contém o script foi desenvolvido.
+
 ### Linguagem Utilizada:
 ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black)
