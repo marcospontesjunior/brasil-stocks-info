@@ -15,8 +15,8 @@ Através da utilização das bibliotecas **Pandas** e **YFinance**, o script bus
 
 ### Estrutura do Repositório:
 - <strong>data:</strong> Encontrará o arquivo que foi gerado ao fim do script.
-- <strong>img:</strong> Aqui você encontrará os prints obtidos.
-- <strong>script:</strong> Este diretório contém o script foi desenvolvido.
+- <strong>img:</strong> Aqui você encontrará os prints obtidos no processo.
+- <strong>script:</strong> Este diretório contém o script desenvolvido.
 
 ### Linguagem Utilizada:
 ###
