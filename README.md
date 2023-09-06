@@ -17,6 +17,7 @@ Através da utilização das bibliotecas **Pandas** e **YFinance**, o script bus
 - <strong>data:</strong> Encontrará o arquivo que foi gerado ao fim do script.
 - <strong>img:</strong> Aqui você encontrará os prints obtidos no processo.
 - <strong>script:</strong> Este diretório contém o script desenvolvido.
+- <strong>readme_translated:</strong> This repository contains the **PDF** with the **report** translated into English.
 
 ### Linguagem Utilizada:
 ###
